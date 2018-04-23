@@ -14,7 +14,7 @@ The examples require a lot of Python packages with the right version. The conda 
 
 First of all, the Anaconda command line version is needed. You can installation it by downloading the right version from Anaconda server. For macOS you should get 
 
-``https://repo.anaconda.com/archive/Anaconda3-5.1.0-MacOSX-x86_64.sh
+`https://repo.anaconda.com/archive/Anaconda3-5.1.0-MacOSX-x86_64.sh`
 
 and installed it after with 
 
